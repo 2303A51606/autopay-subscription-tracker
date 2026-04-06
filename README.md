@@ -1,2 +1,2 @@
 # autopay-subscription-tracker
-Smart AutoPay Subscription &amp; Payment Tracker
+This project helps users track subscriptions and avoid unwanted auto-pay charges.
